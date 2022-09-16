@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="700" align="center" />
   <p><br><strong>I'm just a novice developer</strong><br><strong>trying to make a place in the tech world</strong> <img src="https://media.giphy.com/media/djLOAhhZQF75k29FWR/giphy.gif" width="24"/></p>
     <div id="badges">
-    <a href="https://www.linkedin.com/in/ethel-prado1998/" target="_blank">
+    <a href="https://www.linkedin.com/in/ethel-prado1998/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
-    <a href="https://leetcode.com/sumtinggmr/" target="_blank">
+    <a href="https://leetcode.com/sumtinggmr/">
       <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=orange&style=for-the-badge" />
     </a>
   </div>
