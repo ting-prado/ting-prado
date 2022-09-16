@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" />
-  <p><br><strong>I'm just a novice developer</strong><br><strong>trying to make a place in the tech world</strong> <img src="https://media.giphy.com/media/djLOAhhZQF75k29FWR/giphy.gif" width="24"/></p>
+  <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
+  <p><br><strong>I'm just a novice developer</strong><br><strong>trying to find my place in the tech world</strong> <img src="https://media.giphy.com/media/djLOAhhZQF75k29FWR/giphy.gif" width="24"/></p>
     <div id="badges">
     <a href="https://www.linkedin.com/in/ethel-prado1998/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -66,5 +66,5 @@
 
 ---
 
-<div align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="600" /></div>
+<div align="center"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="600" alt="coding mario gif" /></div>
 
