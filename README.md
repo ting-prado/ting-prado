@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" />
+  <p>I'm just a novice developer trying to make a place in the tech world</p>
+</div>
 <!--
 **ting-prado/ting-prado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
