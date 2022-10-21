@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UIBrKYkVkGjpDxg07X/giphy.gif" width="600" align="center" alt="hello world gif" />
   <p><br><strong>I'm just a novice developer</strong><br><strong>trying to find my place in the tech world</strong> <img src="https://media.giphy.com/media/djLOAhhZQF75k29FWR/giphy.gif" width="24"/></p>
- <!---   
  <div id="badges">
     <a href="https://www.linkedin.com/in/ethel-prado1998/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
@@ -10,25 +9,28 @@
       <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=orange&style=for-the-badge" />
     </a>
   </div> 
- -->
 </div>
 
 ---
-<img align="right" alt="my neighbor totoro" width="250" src="https://media.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif">
 
-### Hi there 👋
+<img align="left" alt="my neighbor totoro" width="350" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<div>
 
-👂 My name is Ting
+<h3>&emsp;Hi there 👋</h3>
 
-👩 My pronouns are she/they
+&emsp; 👂 My name is Ting
 
-🔭 I’m currently working on my personal projects
+&emsp; 👩 My pronouns are she/they
 
-🌱 I’m currently learning C# and the MERN stack
+&emsp; 🔭 I’m currently working on my personal projects
 
-🤝 I’m looking to contribute on open-source projects
+&emsp; 🌱 I’m currently learning C# and the MERN stack
 
-❤️ I love video games!
+&emsp; 🤝 I’m looking to contribute in open-source projects
+
+&emsp; ❤️ I love video games and tv shows
+
+</div>
 
 ---
 
