@@ -13,7 +13,7 @@
 
 ---
 
-<img align="left" alt="my neighbor totoro" width="350" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="left" alt="girl coding" width="340" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 <div>
 
 <h3>&emsp;Hi there 👋</h3>
