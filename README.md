@@ -5,15 +5,17 @@
     <a href="https://www.linkedin.com/in/ethel-prado1998/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
     </a>
+    <!--
     <a href="https://leetcode.com/sumtinggmr/">
       <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=orange&style=for-the-badge" />
     </a>
+    -->
   </div> 
 </div>
 
 ---
 
-<img align="left" alt="girl coding" width="340" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+<img align="left" alt="girl coding" width="335" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 <div>
 
 <h3>&emsp;Hi there 👋</h3>
