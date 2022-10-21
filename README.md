@@ -11,13 +11,30 @@
     </a>
   </div> 
  -->
-  <p>24 ● she/they ● ph</p>
 </div>
 
 ---
+<img align="right" alt="my neighbor totoro" width="250" src="https://media.giphy.com/media/xd22iKsu0Wn0Q/giphy.gif">
 
-<h2 align="center"><img src="https://media.giphy.com/media/DVzgDqMj7B6KxFWTlL/giphy.gif" width="36" /> Technologies I work with: </h2>
+### Hi there 👋
+
+👂 My name is Ting
+
+👩 My pronouns are she/they
+
+🔭 I’m currently working on my personal projects
+
+🌱 I’m currently learning C# and the MERN stack
+
+🤝 I’m looking to contribute on open-source projects
+
+❤️ I love video games!
+
+---
+
+<h2 align="center"><img src="https://media.giphy.com/media/DVzgDqMj7B6KxFWTlL/giphy.gif" width="36" /> Tools That I've Learned </h2>
 <table align="center">
+  <tr>
   <td align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" /> <br>
   <strong>HTML</strong>
@@ -51,9 +68,28 @@
   <strong>Nodejs</strong>
   </td>
   <td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" /> <br>
+  <strong>Express</strong>
+  </td>
+   <td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" /> <br>
+  <strong>MongoDB</strong>
+  </td>
+  </tr>
+  <tr>
+   <td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="36" /> <br>
+  <strong>Bootstrap</strong>
+  </td>
+  <td align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="36" /> <br>
   <strong>Jest</strong>
+  <td align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="36" /> <br>
+  <strong>TypeScript</strong>
   </td>
+  </td>
+  </tr>
 </table>
 
 <h2 align="center"><img src="https://media.giphy.com/media/TqNNQs4dHChEWUUWT2/giphy.gif" width="30" /> My stats:</h2>
